@@ -4,3 +4,6 @@
 
 # Full Stack Projects: #
 <p> Complete web applications built using modern technologies like Node.js, React, MongoDB, Express, and more.</p>
+<p> UI/UX Design Samples: A range of design projects showcasing user-centered designs, wireframes, and prototypes created with tools like Figma, Sketch, and Adobe XD. </p>
+<p> Responsive Design: All projects are mobile-first and fully responsive, ensuring a seamless experience across all devices. </p>
+<p> Collaborative Projects: Examples of projects where I've worked in teams, collaborating with designers, developers, and stakeholders. </p>
